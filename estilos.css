@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>taller</title>
+</head>
+<img class="img" src="img/vegetta.jpg" alt="">
+
+<style>
+
+.img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+   display: block;
+  margin: auto;
+
+}
+
+.hola{
+font-size: 15px;}
+ 
+></style>
+ 
+<body>
+<center>    
+    
+    <br>
+    <div class="img"> <center></center></div>
+
+<h2>home</h2> 
+<h2>acerca de mi</h2>
+<h2>tdea</h2>
+<h2>contacto</h2>
